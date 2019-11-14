@@ -16,6 +16,7 @@ _global_script_class_icons={
 [application]
 
 config/name="godot-recently-used-plugin"
+run/main_scene="res://JustScene.tscn"
 config/icon="res://icon.png"
 
 [editor_plugins]
